@@ -16,13 +16,6 @@ This project requires **Python** and the following Python libraries installed:
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
-
-### Files
-
-`MTA_EDA_ProjectBenson_Group 4.ipynb` --> The main python notebook that when executed will chronologically go through the entirety of our analysis. 
-
-`Project Benson.pptx` --> Presentation documenting our important findings. 
-
 ### Run
 
 In a terminal or command window, navigate to the top-level project directory and run one of the following commands:
