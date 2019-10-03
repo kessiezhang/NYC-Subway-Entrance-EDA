@@ -1,6 +1,6 @@
 # NYC-Subway-Entrance-EDA
 
-WomenTechWomenYes (WTWY- a fictitious organization) has an annual gala at the beginning of the summer each year. As they are new and inclusive organization, they try to do double duty with the gala both to fill their event space with individuals passionate about increasing the participation of women in technology, and to concurrently build awareness and reach.
+WomenTechWomenYes (WTWY- a fictitious organization) has an annual gala at the beginning of the summer each year. As WTWY is still a new and inclusive organization, they try to do double duty with the gala both to fill their event space with individuals passionate about increasing the participation of women in technology, and to concurrently build awareness and reach.
 
 ### *Project Goal:*
 The goal of this project is to maximize the numbers of signitures obtained at subway station entrances/exits via street marketing teams, focusing on those individuals who are interested to attend the gala and contribute to WTWY’s cause.
